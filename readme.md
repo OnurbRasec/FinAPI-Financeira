@@ -1,4 +1,4 @@
-### FinAPI - Finaceira
+### FinAPI - Financeira
 
 ---
 
